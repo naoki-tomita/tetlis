@@ -2,6 +2,8 @@
 
 a geme like tetris.
 
+![](./tetlis.gif)
+
 # how to play
 
 ```sh
